@@ -70,7 +70,7 @@ body{
     gap: 32px;
 }
 .apresentacao__links__navegacao{
-    display: flex;
+   display: flex;
     justify-content: center;
     gap: 16px;
     border: 2px solid #22d4fd;
